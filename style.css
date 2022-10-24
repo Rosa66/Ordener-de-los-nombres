@@ -1,0 +1,27 @@
+#botón_enviar
+{
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+
+input
+{
+	margin: 10px;
+}
+#ver_nombre_con_comas
+{
+	border: 1px solid rgb(204, 230, 255);
+    padding: 10px;
+	background-color: rgb(155, 255, 155);
+	border-radius: 10px;
+    width: 50%;
+}
+
+#ver_nombre_sin_comas
+{
+	border: 1px solid rgb(240, 0, 0);
+    padding: 10px;
+    background-color: rgb(231, 125, 125);
+	border-radius: 10px;
+    width: 50%;
+}
